@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada a un ensamblado.
 [assembly: AssemblyTitle("CalculadoraConsole")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Un calculadora de consola funcional")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("SpiderDX")]
 [assembly: AssemblyProduct("CalculadoraConsole")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
